@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @CedarBK
-- 👀 I’m interested in codeing
-- 🌱 I’m currently learning JavaScript
+
